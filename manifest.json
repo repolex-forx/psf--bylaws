@@ -1,0 +1,21 @@
+{
+  "manifest_version": "1.0",
+  "org": "psf",
+  "repo": "bylaws",
+  "versions": [
+    {
+      "commit": "8878278034e9cb5563b9e4d2cc423483ffd2028f",
+      "parsed_at": "2026-10-11T07:50:22.029224+00:00",
+      "filetree": "filetree/8878278034e9cb5563b9e4d2cc423483ffd2028f.nq.gz",
+      "blobs": [
+        "blob/b5cbc0eca38b07fa9e844997f34ec4b31e66bcb7.nq.gz",
+        "blob/cba0c7565a046eb8988454ffb34d6b4611c60ca1.nq.gz",
+        "blob/8639875b9014037886498085c8a684d02f067fb5.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
