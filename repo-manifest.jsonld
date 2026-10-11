@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/psf/bylaws/commit/8878278034e9cb5563b9e4d2cc423483ffd2028f",
       "git:hexsha": "8878278034e9cb5563b9e4d2cc423483ffd2028f",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-11T07:52:40.132164+00:00"
     }
   ]
 }
